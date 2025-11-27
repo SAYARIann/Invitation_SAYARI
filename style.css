@@ -1,0 +1,26 @@
+/*General*/
+body {
+  .picture-img{
+  width: 550px;
+  height:550px;
+  border-radius: 250%;
+  object-fit: cover;
+    border: 8px solid  green;
+  box-shadow: 030x 8px rgba(175, 41, 41, 0.1);
+  margin-bottom: 20px;
+    
+    .pictures.img{
+       width: 50px;
+  height:600px;
+  border-radius: 150%;
+  object-fit: cover;
+    border: 8px solid  green;
+  box-shadow: 030x 8px rgba(175, 41, 41, 0.1);
+  margin-bottom: 20px;
+      
+      
+    }
+    
+}
+  
+
